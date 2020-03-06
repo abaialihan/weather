@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="sign_in_text">Please, sign in or register</string>
+</resources>
